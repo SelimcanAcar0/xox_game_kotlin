@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">xox_game</string>
+    <string name="headlineText">XOX Game</string>
+    <string name="turn">Turn at X</string>
+</resources>
